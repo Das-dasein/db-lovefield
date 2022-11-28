@@ -454,7 +454,7 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '{{ "./assets/css/just-the-docs-"}}' + theme + '.css');
+  cssFile.setAttribute('href', '{{ "../assets/css/just-the-docs-" | absolut-path}}' + theme + '.css');
 }
 
 // Document ready
