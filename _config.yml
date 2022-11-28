@@ -7,9 +7,11 @@ search_enabled: false
 # Enable or disable heading anchors
 heading_anchors: true
 
+aux_links:
+  "das-dasein.github.io/db-lovefield":
+    - "https://das-dasein.github.io/db-lovefield"
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
-
 plugins:
   - jekyll-seo-tag
 
