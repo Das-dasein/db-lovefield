@@ -1,0 +1,31 @@
+title: "Базы данных"
+baseurl: ""
+url: "https://das-dasein.github.io/db-lovefield"
+logo: "/images/logo.svg"
+search_enabled: false
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
+
+theme: jekyll-theme-cayman
