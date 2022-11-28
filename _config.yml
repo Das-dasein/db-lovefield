@@ -1,6 +1,6 @@
 title: "Базы данных"
-url: "https://das-dasein.github.io"
-baseurl: "/db-lovefield"
+url: https://das-dasein.github.io
+baseurl: /db-lovefield
 logo: "/images/logo.svg"
 search_enabled: false
 
