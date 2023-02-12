@@ -1,3 +1,8 @@
+---
+title: 📸 Примеры
+nav_order: 5
+---
+
 # Лекция 4
 ![image](https://user-images.githubusercontent.com/33377076/218301027-f1a5e440-dac2-4fd7-abda-16aed59d006c.png)
 
