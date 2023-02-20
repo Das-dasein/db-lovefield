@@ -182,4 +182,5 @@ function printAllStudents() {
 
   return database.select().from(studentTable).exec().then(console.table);
 }
+
 ```
