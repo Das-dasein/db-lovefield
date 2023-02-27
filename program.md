@@ -15,7 +15,10 @@ nav_order: 2
 
 [💾 Лекция 4](https://bbb.ssau.ru:8443/playback/presentation/2.3/5fdab412d456fb67a87df8140fbc8ccb3fa191ff-1676293349759) <br>
 
-[💾 Лекция 5](https://bbb.ssau.ru:8443/playback/presentation/2.3/5fdab412d456fb67a87df8140fbc8ccb3fa191ff-1676897986363)
+[💾 Лекция 5](https://bbb.ssau.ru:8443/playback/presentation/2.3/5fdab412d456fb67a87df8140fbc8ccb3fa191ff-1676897986363) <br>
+
+[💾 Лекция 6](https://bbb.ssau.ru:8443/playback/presentation/2.3/5fdab412d456fb67a87df8140fbc8ccb3fa191ff-1677502898426) <br>
+
 
 # Автоматизированное тестирование
 
