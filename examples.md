@@ -184,3 +184,7 @@ function printAllStudents() {
 }
 
 ```
+
+# Лекция 6
+
+https://gist.github.com/Das-dasein/88ea85e0f3185222a39f01bb1c884c56#file-lr6-js
